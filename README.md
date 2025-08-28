@@ -1,4 +1,4 @@
-# AI-Trading-Bot(lstm)
+# AI Trading Bot
 
 ## Disclaimer
 
